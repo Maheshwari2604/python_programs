@@ -9,6 +9,7 @@ while True:
 #set condition for time
 	if(settime[3] == '14:05:30'):
 		print "Welcome"
+		break
 #to open browser
 #		webbrowser.open_new_tab("https://www.google.com")
 
